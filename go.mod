@@ -1,4 +1,4 @@
-module github.com/GolangLessons/protos
+module github.com/Reensef/gRPC-auth-service-protos
 
 go 1.21
 
